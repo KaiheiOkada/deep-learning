@@ -1,0 +1,2 @@
+# deep-learning
+anaconda+ubuntu2004+pytorchを使用したGPUによる深層学習のための環境構築方法
